@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a senior undergraduate at [SJTU](https://en.sjtu.edu.cn/) expected to graduate in 2024.
+I am currently a senior undergraduate at [SJTU](https://en.sjtu.edu.cn/) expected to graduate in 2024. Check my tech [resume](https://sylvansun.github.io/assets/pdf/resume.pdf) here.
 
 I am also working as a backend development intern for routing system with SD-RTN(Software Defined Realtime Transport Network) Team at [ByteDance](https://www.bytedance.com/en).
 
