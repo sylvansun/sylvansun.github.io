@@ -1,0 +1,29 @@
+---
+layout: post
+title: Self introduction for GAUnion
+date: 2023-07-12 23:00:00+0800
+description: gaunion 2024 recruitment essay 
+tags: 
+categories: essays
+---
+# Self Introduction for GAUnion 2024 recruitment
+
+## Description
+Please write a short essay about yourself. In it, you should emphasize the **distinct qualities** or life experiences of yours which make you a good candidate for GAU and those for higher education abroad. And you would be advised and requested to give concrete and personal examples (Specific anecdotes are particularly welcome) to prove your claim (40%): (Please donot mention your id info, i.e. your name etc., so that the reviewers could evaluate the essay in a more objective manner)
+
+## Essay
+
+The characteristic treasured most by myself, if required to describe, is the courage of starting something entirely from scratch. Intelligence itself is a keen-edged sword, wielding properly, the owner could break through any obstacles ahead of him. But courage is more like a hammer, clumsy at first glance but the empowerment of which could accompany someone on the long trip of life.
+
+My recent wake-up time of life is almost the same time period last year as I am writting this essay this year, when students from my department were required to take the course *Lab Practice*, from the name of which you could know that it was a course aimed at those who want to conduct research. Unfortunately by that time I was not totally aware of my ability of carrying out research, so blindly choosing a research group and attend their weekly meetings became my only choice that seemed right. However, the experience was not beneficial to me because I could neither gain research inspirations nor accumulate technical skills from my lab. Even though I tried to understand how the research group was able to accomplish their tasks and pushed myself to catch up with the latest progress in the field, I was still not interested in the modern mathematical models of artificial intelligence. At first I thought the problem was not about research itself but my choice of researching field, yet after contacting other professors from systems track I realized that researching itself was not suitable for me whatever topic I chose.
+Last summer ended up miserable and fruitless and I only finished the course by doing chores.
+
+Adversity makes one think. Staring off as a student being encouraged to do scientifical research from the moment entering SJTU, I had not really thought about what it really means to do **research**, and what's more important, my potentials about it. Yet research is not something that can be done by fleeting enthusiasm, it requires persistent devotions and ceaseless efforts. I realized I was not prepared for life like that and it was time to make some changes.
+
+Decision making was always harder. Like I mentioned above, since courage was my strength, I do not hesitate to put my ideas into action once my decision was made. In the field of computer science, one will never lack resources if you make your goals clearly. Starting 2022 Fall Semester, I quitted lab and started preparing for internships after finishing the regular coursework. My progress was slow at first, but better slow than never. Finally I was able to finish those course assignments with minimum effort and accumulated knowledge needed to start as an intern at my current company building their realtime transport network infrastructures. There is still a lot of uncertainty ahead but at least this summer my efforts will not be in vain.
+
+My motivation about going abroad for study emerged concurrently last summer as I was doing chores in my lab. Since my burden was not heavy, the fact that I spent a lot of time thinking and planning was imaginable. The original plan, SJTU's plan for most of its students to be specific, for a student with passable grades like me without careful thinking and consideration was to fulfill Master or PhD degree within SJTU. Yet that route became unsuitable for me last summer because, to be frank, I no longer want to spend any more time on research based on experiences in my lab. Considering the domestic environment and atmosphere of pushing students to do research, I decided to finish my Master's degree abroad. It was then that I realized I did not need to abide by any certain planning for students and started preparing my English examinations. Actually I took GRE tests that summer and then got my TOEFL score last winter. I love the feeling of being free and taking control of my own life.
+
+Back to the topic of the chatacteristic about starting something entirely from scratch. From the perspective of relationship building, going abroad for study is sort of an entire new start for every one of us. Unlike those who choose to finish advanced degrees within SJTU hence benefiting from the relasionship built in undergraduate years, we need to neglect the sunk cost with courage when making decisions and enbrace a fresh new start.
+
+I remember the old days when I was in junior high reading the Harry Potter series where the main characters go through the Sorting Ceremony when the Sorting Hat decides the House(i.e. department) they belong to. Unlike the main characters, I wished I had been suited for Ravenclaw instead of Gryffindor because I kind of hoped for more intelligence(so as to perform better in school) and underestimated the significance of courage. Only with time went by did I realize that I was more of a Gryffindor than a Ravenclaw. Even though an abstract name cannot summarize what kind of person I am, at least I hope I will never lack the courage to start something new.
