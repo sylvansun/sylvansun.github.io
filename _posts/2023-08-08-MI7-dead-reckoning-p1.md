@@ -38,8 +38,16 @@ I understand and awe the probabilistic model of artificial intelligence. By foll
 
 ### You can always count on a speeding train
 
+What most people really like about a speeding train as the site for the grand finale is its relative closedness, isolation and high thrill, where the isolation makes it difficult to get support and the speed adds to the excitement. What's more, the audience are able to enjoy more landscape as the train moving forward(towards uncertainty). 
+
 ### Motorcycle ride off a cliff
 
+Although intended as a selling point in the trailer, the actual visual perception of this scene is not comparable 
+with the HALO jumping scene or freehand climbing *Burj Khalifa* tower scene in the previous movies. And perhaps because I did not chose the theater carefully(I casually chose a cinema where I worked without doing research) the fighting scene with Gabriel was also not comparable with that with Walker on the edge of a cliff.
 ### The *poisonous* gas bomb
 
-You remember the explosion of an apparant poisonous bomb filling the conference room with horrifying green gas?
+You remember the explosion of an apparant poisonous bomb filling the conference room with horrifying green gas in the trailer? With expectations of seeing who carried out such an attack and how he managed it but only to find that the man was Ethan and the bomb was merely anaesthetic, I was kind of disappointed for their well-conceived bluffing.
+
+## Expectations for Part 2
+
+Upon finishing this blog, I browsed [MI subreddit](https://www.reddit.com/r/Mission_Impossible/) for more discussions about Part 2. To put it simply, some wish Benji had been killed instead of Ilsa, some predict Ilsa would come back in the next movie, some quickly embrace Grace and never care about the bond between Ilsa and Ethan(and the whole team). I am open to any ending of this series and is optimistic about the performance of Grace, but it would be the best if they could let Ilsa back. 
