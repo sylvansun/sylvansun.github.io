@@ -5,6 +5,8 @@ date: 2023-08-08 23:12:00+0800
 description: freewheeling movie review on Tom Cruise's latest movie
 tags: movies spoilers
 categories: reviews
+toc:
+  sidebar: left
 ---
 ### Spoiler Alert
 
