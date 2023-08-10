@@ -8,7 +8,7 @@ categories: reviews
 ---
 ### Spoiler Alert
 
-I went to see Tom Cruise's latest Mission Impossible series movie, Dead Reckoning(Part 1) as soon as it was released in China last month. The movie is worth watching for the action scenes alone, yet I was a little bit unsatisfied with their arrangement of Ilsa's ending. More precisely, I convinced myself to calm down with the hope of her death as an approach of deceiving the artificial intelligence. Should her death become a reality, I will definitely be furious.
+I went to see Tom Cruise's latest Mission Impossible series movie, Dead Reckoning(Part 1), as soon as it was released in China last month. The movie is worth watching for the action scenes alone, yet I was a little bit unsatisfied with their arrangement of Ilsa's ending. More precisely, I convinced myself to calm down with the hope of her death as an approach of deceiving the artificial intelligence. Should her death become a reality, I will definitely be furious.
 
 Getting back to the point, when asked about your film-viewing experience about an MI series movie, one's impressions are typically classified into two categories: scene and plot. Considering that almost a month has passed since I watched the movie, the remaining memories are impressive and worth discussion.
 
@@ -22,13 +22,17 @@ Ever since they arranged the plot of Ethan saving Benji at the risk of giving hu
 
 ### Ilsa's ending(perhaps?)
 
-Frankly speaking, I did not expect that Ilsa would die at all when Gabriel announced that one of Ilsa and Grace would be killed so that the chance of him acquiring the key would be the highest under the prediction of AI. After all, we are talking about the female agent who was capable of carrying out the task of undercover with Lane and slained Vinter alone, the Bone Doctor.
+Frankly speaking, I did not expect that Ilsa would die at all when Gabriel announced that one of Ilsa and Grace would be killed so that the chance of him acquiring the key would be the highest under the prediction of AI. After all, we are talking about the female agent who was capable of carrying out the task of undercover with Lane and slained Vinter, the Bone Doctor alone. The scene on the bridge where Ilsa faught Gabriel was illogical with Ilsa holding a long sword and Gabriel holding only a small dagger. The movie did spend a lot of footage laying out Gabriel's capabilities, yet Ilsa's failure with her signature move was also illoogical because sword should have a natural advantage over a dagger.
 
-It’s not that I do not accept her death, it's just that I am not satisfied with the way it happened.
+It’s not that I do not accept her death, it's just that I am not satisfied with the way it happened. Even if they are going to let her die anyway as a result of Rebecca's schedule, they could have made her death more dignified. I'm not saying that sacraficing herself for Grace's survival is not worth it, it's just the way they present it too scribbly. She could have died more heroically and the teammates could have shown more grief for her death.
 
-### The introduction of Peggy Carter to the crew
+### The introduction of *Peggy Carter* to the crew
+
+Talking about the replacement of Ilsa with Grace, our beloved Peggy Carter(Hayley Atwell's role in Marvel Universe) was actually a good addition to the team from my perspective. The transformation of her character's personality, though not perfectly smooth, was well articulated and it increased my expectations for her part in the upcoming Part 2. 
 
 ### The formidable AI
+
+I understand and awe the probabilistic model of artificial intelligence. By following its instructions and always taking the action which makes your desired result most likely, Gabriel could have been the most terrifying terrorist in this series. But AI is not unbreakable because any probabilistic prediction has the chance of not reflecting the actual result. I'm a little concerned because the movie did not do a good job of showing what the AI was capable of. Since nowadays almost everybody is familiar with the concept of AI, an ambiguous description of the AI might have been inadequate.
 
 ## Scenes
 
