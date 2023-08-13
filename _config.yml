@@ -266,7 +266,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['movies', 'spoilers'] # these tags will be displayed on the front page of your blog
-display_categories: ['reviews'] # these categories will be displayed on the front page of your blog
+display_categories: ['reviews', 'profile'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
