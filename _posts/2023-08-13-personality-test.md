@@ -1,9 +1,9 @@
 ---
 layout: post
 title: I took the 16 personalities test and got ISFJ-T again
-date: 2023-08-13 23:10:00
+date: 2023-08-13 23:10:00+0800
 description: I'm starting to believe the test results seeing how consistent they are...
-tags: profile
+tags: personality
 categories: profile
 ---
 I took the 16 personalities test again and got the same result as last time. I'm again classified as an ISFJ-T, or a Turbulent Defender. Previously I did not believe these kind of tests considering that their questions are too vague and the results are too general, but I decide to record the results and do it again next year for further comparison.
