@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Fly home for winter vacation with my friend [haoyu](https://haoyuzhen.com/).
+Flew home for winter vacation with my friend [haoyu](https://haoyuzhen.com/).

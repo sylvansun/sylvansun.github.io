@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-With only reading score 28 and listening score 26, I will have to take the exam again :cry:.
+With only reading 28 and listening 26, I will have to take the exam again :cry:.
 
 ***
 

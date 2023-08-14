@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started working as a backend development intern for routing system with SD-RTN(Software Defined Realtime Transport Network) Team at [ByteDance](https://www.bytedance.com/en).
+Started internship at [ByteDance](https://www.bytedance.com/en).
