@@ -180,12 +180,12 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -266,7 +266,7 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: ['books', 'movies', 'spoilers', 'fictions'] # these tags will be displayed on the front page of your blog
-display_categories: ['reviews', 'profile'] # these categories will be displayed on the front page of your blog
+display_categories: ['reviews', 'essays'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
